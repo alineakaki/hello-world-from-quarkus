@@ -1,1 +1,1 @@
-# hello-world-from-quarkus
+# first hello world from quarkus :)
